@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/version-5.0-blue?style=for-the-badge" />
 </p>
 
-<h1 align="center">DB-LENRAH WhatsApp Bot</h1>
+<h1 align="center">DB-LENRAH WM BOT</h1>
 
 <p align="center">
   A structured WhatsApp community management system built with Baileys — focused on real enforcement, not just auto-replies.
